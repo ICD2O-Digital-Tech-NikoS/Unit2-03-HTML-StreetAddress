@@ -8,10 +8,10 @@ function enterClicked () {
   // this function gets user's first name and age and displays it back to user
 
   // get first name from text field
-  let firstName = document.getElementById("first-name").value
+  let StreetNumber = document.getElementById("StreetNumber").value
 	// get age from text field and cast it to integer
-  let userAge = parseInt(document.getElementById("age-entered").value)
+  let StreetName = parseInt(document.getElementById("StreetName").value)
 
   // display name and age back to user
-  document.getElementById('user-info').innerHTML = "Your first name is " + firstName + " and you are " + userAge + " years old."
+  document.getElementById('user-info').innerHTML = "Your Street address is " + StreetNumber + StreetName + "."
 }
