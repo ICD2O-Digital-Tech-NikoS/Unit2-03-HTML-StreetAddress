@@ -21,8 +21,8 @@ h1 {
   line-height: 20pt;
   color: black;
   padding: 20px;
-  width: 400px;
-  text-align: center;
+  margin-left: 600px;
+  margin-right: 600px;
   background-color: #e1dbdb;
 }
 
