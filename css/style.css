@@ -4,7 +4,7 @@
 */
 
 body {
-  background-color: powderblue;
+  background-color: #ff9500;
   font-size: 10pt;
   font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
   color: black;
@@ -12,13 +12,18 @@ body {
   padding-left: 5pt;
   padding-right: 5pt;
   padding-top: 5pt;
+  text-align: center;
 }
 
 h1 {
-  font: 16pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font: 20pt Times New Roman;
   font-weight: bold;
   line-height: 20pt;
-  color: slateblue;
+  color: black;
+  padding: 20px;
+  width: 400px;
+  text-align: center;
+  background-color: #e1dbdb;
 }
 
 h2 {
@@ -32,7 +37,7 @@ h3 {
   font: 12pt Verdana, Geneva, Arial, Helvetica, sans-serif;
   font-weight: bold;
   line-height: 16pt;
-  color: violet;
+  color: #0011ff;
 }
 
 p.subheader {
@@ -42,7 +47,7 @@ p.subheader {
 
 div {
   font-weight: bold;
-  color: #ee6d9e;
+  color: #7300ff;
   margin: 5px;
 }
 
